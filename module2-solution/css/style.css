@@ -34,7 +34,7 @@ h1 {
 
 p {
   width: 90%;
-  height: 125px;
+  height: 150px;
   margin-right: auto;
   margin-left: auto;
   font-family: Arial;
@@ -43,10 +43,11 @@ p {
 }
 
 .sup_style {
+  font-size: 10px;
   float: left;
-  position: absolute;
+/*  position: absolute;
   bottom: 0;
-  left: 0;
+  left: 0;*/
 }
 
 
