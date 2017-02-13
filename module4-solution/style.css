@@ -1,0 +1,5 @@
+body > p > span {
+	font-style: italic;
+	font-weight: bold;
+	color: red;
+}
